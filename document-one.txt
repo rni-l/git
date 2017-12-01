@@ -3,3 +3,5 @@
 在 master 分支添加内容， push 到 develop ---- 无效（这次的修改内容，无法提交到 develop）
 
 推送到 develop
+
+测试 merge -on-ff 模式
