@@ -20,7 +20,3 @@ update
 测试 reset
 
 还没 Push
-
-使用 reset2
-
-12.15 接线，抽取分支后
