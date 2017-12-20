@@ -20,3 +20,5 @@ update
 测试 reset
 
 还没 Push
+
+mac test
