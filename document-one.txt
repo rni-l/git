@@ -24,3 +24,5 @@ update
 mac test
 
 测试标签
+
+测试 stash -a
