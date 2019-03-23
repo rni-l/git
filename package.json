@@ -1,0 +1,28 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "使用 git 操作记录，进行学习的一个仓库",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rni-l/git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rni-l/git/issues"
+  },
+  "homepage": "https://github.com/rni-l/git#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
