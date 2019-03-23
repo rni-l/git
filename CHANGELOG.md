@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/rni-l/git/compare/v3.2.1...v4.0.0) (2019-03-23)
+
+
+
 <a name="3.2.1"></a>
 ## [3.2.1](https://github.com/rni-l/git/compare/v3.2.0...v3.2.1) (2019-03-23)
 

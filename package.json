@@ -1,6 +1,6 @@
 {
   "name": "git",
-  "version": "3.2.1",
+  "version": "4.0.0",
   "description": "使用 git 操作记录，进行学习的一个仓库",
   "main": "index.js",
   "dependencies": {
